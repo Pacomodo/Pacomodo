@@ -17,7 +17,7 @@
 #### Atcoder
 [![Atcoder Profile](https://atcoder-badge.kro.kr?id=Pacomodo)](https://atcoder.jp/users/Pacomodo)
 #### Problems that i tested
-<a href="#" onclick="window.open('https://www.acmicpc.net/problemset?sort=no_asc&author=lighter&author_type=19', '_blank');">
+<a href="https://bit.ly/4aNs2HZ">
     <img src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/images/boj-og.png" width="30%"/>
     <br> Go To Link
 </a>
